@@ -8,7 +8,7 @@ I thrive when cracking tough problems, bridging hardware and software, and fueli
 
 🌟 Highlights & Impact
 
-🔹 RISC-V Processor : Designed and verified Single cycle RISC V Processor  modules in Verilog—building including Instruction memory,Data Memory,PC,Regfile etc.
+🔹 RISC-V Processor : Designed and verified Single cycle RISC V Processor  modules in Verilog including Instruction memory, Data Memory, PC, Regfile etc.
 
 🔹 Smart Agriculture: Engineered a robust IoT system using ESP32: seamlessly integrated sensors and motor controls for automated, intelligent irrigation.
 
