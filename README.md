@@ -8,13 +8,13 @@ I thrive when cracking tough problems, bridging hardware and software, and fueli
 
 🌟 Highlights & Impact
 
-🔹 RISC-V Processor Pioneer: Designed and verified custom RISC-V modules in Verilog—building cores, optimizing fetch_fifo, and streamlining prefetch_buffer operation for next-gen performance.
+🔹 RISC-V Processor : Designed and verified Single cycle RISC V Processor  modules in Verilog—building including Instruction memory,Data Memory,PC,Regfile etc.
 
-🔹 Smart Agriculture Trailblazer: Engineered a robust IoT system using ESP32: seamlessly integrated sensors and motor controls for automated, intelligent irrigation.
+🔹 Smart Agriculture: Engineered a robust IoT system using ESP32: seamlessly integrated sensors and motor controls for automated, intelligent irrigation.
 
-🔹 Tech Stack Mastery: Proficient in Verilog, C, and digital logic design—backed by hands-on expertise with Vivado, simulation platforms, and debugging tools.
+🔹 Tech Stack Mastery: Proficient in Verilog, C, Python and digital logic design—backed by hands-on expertise with Vivado and Cadence.
 
-🔹 Women in Tech Champion: Leading at Tinkerhub TocH, I mentor, run technical workshops, and build inclusive communities driving tech adoption and learning.
+🔹 Women in Tech Lead: Leading at Tinkerhub TocH, I mentor, run technical workshops, and build inclusive communities driving tech adoption and learning.
 
 🔹 Event Architect: From running electrifying orientation sessions to pioneering panel discussions and technical meetups, I energize teams and shape events that matter.
 
